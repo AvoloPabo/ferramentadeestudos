@@ -1,7 +1,7 @@
 :root {
     --text-color: #ffffff;
     --card-front-color: #000000;
-    --card-back-color: #00F4BF;
+    --card-back-color: #00f4e8;
 }
 
 
@@ -48,6 +48,11 @@ color: var(--text-color);
 
 .cartao__conteudo__pergunta {
 color: var(--text-color);
+
+}
+
+.cartao__conteudo__resposta {
+color: var(--card-back-color);
 
 }
 
