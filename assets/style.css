@@ -1,3 +1,14 @@
+:root {
+    --text-color: #DBE4EF;
+    --card-front-color: #144480;
+    --card-back-color: #00F4BF;
+}
+
+
+
+
+
+
 body{
 background: url(img/426b432155c37bc4918f316527777c11.jpg);
 font-family: Bai Jamjuree;
