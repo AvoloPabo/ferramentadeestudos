@@ -27,6 +27,7 @@ display: flex;
 }
 
 .cartao__conteudo{
+    background-color: var(--card-front-color);
     text-align: center;
     /*background-color: aquamarine;*/
     height: 100%;
