@@ -60,6 +60,7 @@ font-weight: 500;
 .cartao__conteudo__resposta p {
 color: var(--card-back-color);
 font-weight: 700;
+backface-visibility: hidden;
 margin-top: 4rem;
 }
 
